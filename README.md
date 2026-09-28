@@ -29,7 +29,7 @@ git clone https://github.com/<you>/seo-ai-visibility.git ~/.claude/skills/seo-ai
 
 **Single project:**
 ```bash
-git clone https://github.com/<you>/seo-ai-visibility.git .claude/skills/seo-ai-visibility
+git clone https://github.com/VaoSer/skill-SEO.git .claude/skills/seo-ai-visibility
 # or .github/skills/ or .agents/skills/, depending on your agent
 ```
 
