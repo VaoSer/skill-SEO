@@ -24,7 +24,7 @@ Clone straight into your skills folder, then update later with `git pull`.
 
 **Personal (all projects), Claude Code and VS Code Copilot:**
 ```bash
-git clone https://github.com/<you>/seo-ai-visibility.git ~/.claude/skills/seo-ai-visibility
+git clone https://github.com/VaoSer/skill-SEO.git ~/.claude/skills/seo-ai-visibility
 ```
 
 **Single project:**
